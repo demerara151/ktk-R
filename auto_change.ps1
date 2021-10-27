@@ -1,1 +1,1 @@
-sed -i 's/0/1/' "D:\SteamGames\steamapps\common\Kritika\resource\Common\database\FontConfig_ja-JP.txt"
+sed -i 's/1\.0/1.1/' "D:\SteamGames\steamapps\common\Kritika\resource\Common\database\FontConfig_ja-JP.txt"
